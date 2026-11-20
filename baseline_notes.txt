@@ -1,0 +1,5 @@
+Baseline Model: TF-IDF + Logistic Regression
+Accuracy : 0.9749
+Precision: 0.9753
+Recall   : 0.9749
+F1 Score : 0.9739
